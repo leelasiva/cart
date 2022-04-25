@@ -1,0 +1,21 @@
+.input-group{
+    margin: 50px auto;
+    box-shadow: 2px 5px 10px;
+    padding:10px;
+
+}
+.btn{
+    background:#367c86;
+    font-family: montserrat;
+    color:white;
+    justify-content: center;
+}
+body{
+    background-color:#eeecec;
+  }
+  #contain{ 
+      margin:100px;
+      padding:10px;
+     
+
+  }

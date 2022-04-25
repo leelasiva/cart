@@ -1,0 +1,25 @@
+.cardview{
+    box-shadow: 1px 1px 1px;
+    width:100%;
+    text-decoration: none;
+    font-family: Verdana  sans-serif;
+    
+}
+.cardview:hover{
+    box-shadow: 5px 5px 5px ;
+    transition-duration: all 0.2s;
+}
+.header {
+    padding: 10px;
+    border: 60px;
+    margin-top: 20px;
+    margin-left: 100px ;
+    margin-right: 100px;
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCajuyDIuqOUT7ev_d02mf9-aAPUY4fUg_Q&usqp=CAU");
+    color:#bbc526;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+   
+  }
